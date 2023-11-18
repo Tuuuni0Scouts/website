@@ -1,6 +1,8 @@
 h1 {
     color:rgb(139, 139, 139);
     text-align: center;
+    font-family: monospace;
+    size: 400px;
 }
 
 div {
@@ -8,6 +10,7 @@ div {
 }
 .Copyright {
     color:blanchedalmond;
+    font-family: monospace;
 }
 .campfirestartbild {
     display: block;
@@ -19,8 +22,6 @@ div {
 .startmenu {
     color:blanchedalmond;
     text-align: right;
-    scale: 400px;
-
-   
+    font-family: monospace;   
 
 }
