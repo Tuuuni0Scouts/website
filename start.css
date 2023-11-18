@@ -2,26 +2,27 @@ h1 {
     color:rgb(139, 139, 139);
     text-align: center;
     font-family: monospace;
-    size: 400px;
+    font-size: 50px;
 }
 
 div {
     background-color: black;
 }
 .Copyright {
-    color:blanchedalmond;
+    color:rgb(139, 139, 139);
     font-family: monospace;
+    font-size: 15px;
 }
-.campfirestartbild {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 1400px;
-    height: auto; 
+.black-box {
+    width: 100%;
+    height: 900px;
+    background-color: black; 
 }
+
 .startmenu {
-    color:blanchedalmond;
+    color:rgb(139, 139, 139);
     text-align: right;
-    font-family: monospace;   
+    font-family: monospace;
+    font-size: 20px;
 
 }
