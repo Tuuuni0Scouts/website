@@ -32,6 +32,8 @@ div {
     padding: 0;
     display: inline;
     float: right;
+    display: flex;
+    justify-content: flex-end;
 }
 .startmenu {
     display: block;

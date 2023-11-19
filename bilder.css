@@ -21,12 +21,14 @@ div {
 
 }
 
-.startMenulist {
+.startMenulist  {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: inline;
     float: right;
+    display: flex;
+    justify-content: flex-end;
 }
 .startmenu {
     display: block;
