@@ -26,3 +26,10 @@ div {
     font-size: 20px;
 
 }
+.startMenulist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: right;
+}
