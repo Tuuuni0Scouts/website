@@ -1,3 +1,26 @@
 body {
     background-color: black;
 }
+.startmenu {
+    color:rgb(139, 139, 139);
+    text-align: right;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+.startMenulist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+}
+.startmenu {
+    display: block;
+    color: rgb(139, 139, 139);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
