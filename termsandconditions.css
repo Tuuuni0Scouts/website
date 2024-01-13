@@ -17,10 +17,3 @@ body {
     display: flex;
     justify-content: flex-end;
 }
-.startmenu {
-    display: block;
-    color: rgb(139, 139, 139);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
